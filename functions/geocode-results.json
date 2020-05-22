@@ -1,0 +1,590 @@
+[
+    {
+      "geometry" : {
+        "location_type" : "GEOMETRIC_CENTER",
+        "location" : {
+          "lng" : 74.761143300000001,
+          "lat" : 13.3463853
+        },
+        "viewport" : {
+          "southwest" : {
+            "lat" : 13.3450363197085,
+            "lng" : 74.75979431970849
+          },
+          "northeast" : {
+            "lng" : 74.762492280291511,
+            "lat" : 13.347734280291499
+          }
+        }
+      },
+      "access_points" : [
+  
+      ],
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ],
+      "place_id" : "ChIJL6izOFy7vDsRv3YrA8NC5rY",
+      "plus_code" : {
+        "compound_code" : "8QW6+HF Kunjibettu, Udupi, Karnataka, India",
+        "global_code" : "7J5P8QW6+HF"
+      },
+      "formatted_address" : "Sharada Mantap Bus Stand, SH 65, Kunjibettu, Udupi, Karnataka 576103, India",
+      "address_components" : [
+        {
+          "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+          ],
+          "long_name" : "Sharada Mantap Bus Stand",
+          "short_name" : "Sharada Mantap Bus Stand"
+        },
+        {
+          "types" : [
+            "route"
+          ],
+          "long_name" : "State Highway 65",
+          "short_name" : "SH 65"
+        },
+        {
+          "types" : [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ],
+          "long_name" : "Kunjibettu",
+          "short_name" : "Kunjibettu"
+        },
+        {
+          "types" : [
+            "locality",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "long_name" : "Karnataka",
+          "short_name" : "KA"
+        },
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        },
+        {
+          "types" : [
+            "postal_code"
+          ],
+          "long_name" : "576103",
+          "short_name" : "576103"
+        }
+      ]
+    },
+    {
+      "formatted_address" : "Udupi-Manipal Hwy, Kunjibettu, Udupi, Karnataka 576102, India",
+      "geometry" : {
+        "viewport" : {
+          "southwest" : {
+            "lat" : 13.3450035197085,
+            "lng" : 74.760203069708496
+          },
+          "northeast" : {
+            "lat" : 13.3477014802915,
+            "lng" : 74.762901030291502
+          }
+        },
+        "location" : {
+          "lng" : 74.7615531,
+          "lat" : 13.3463391
+        },
+        "bounds" : {
+          "southwest" : {
+            "lng" : 74.761031000000003,
+            "lat" : 13.346308799999999
+          },
+          "northeast" : {
+            "lng" : 74.762073099999995,
+            "lat" : 13.346396199999999
+          }
+        },
+        "location_type" : "GEOMETRIC_CENTER"
+      },
+      "place_id" : "ChIJk5Koaly7vDsRgqghX3vC4Ok",
+      "types" : [
+        "route"
+      ],
+      "address_components" : [
+        {
+          "types" : [
+            "route"
+          ],
+          "long_name" : "Udupi-Manipal Highway",
+          "short_name" : "SH 65"
+        },
+        {
+          "types" : [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ],
+          "long_name" : "Kunjibettu",
+          "short_name" : "Kunjibettu"
+        },
+        {
+          "types" : [
+            "locality",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "long_name" : "Karnataka",
+          "short_name" : "KA"
+        },
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        },
+        {
+          "types" : [
+            "postal_code"
+          ],
+          "long_name" : "576102",
+          "short_name" : "576102"
+        }
+      ],
+      "access_points" : [
+  
+      ]
+    },
+    {
+      "formatted_address" : "Kunjibettu, Udupi, Karnataka, India",
+      "geometry" : {
+        "location" : {
+          "lng" : 74.763588099999993,
+          "lat" : 13.347426799999999
+        },
+        "viewport" : {
+          "southwest" : {
+            "lat" : 13.3430461,
+            "lng" : 74.751415999999992
+          },
+          "northeast" : {
+            "lat" : 13.3524399,
+            "lng" : 74.770399999999995
+          }
+        },
+        "bounds" : {
+          "southwest" : {
+            "lat" : 13.3430461,
+            "lng" : 74.751415999999992
+          },
+          "northeast" : {
+            "lng" : 74.770399999999995,
+            "lat" : 13.3524399
+          }
+        },
+        "location_type" : "APPROXIMATE"
+      },
+      "place_id" : "ChIJyfScu167vDsRRabsSft3cCo",
+      "types" : [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "address_components" : [
+        {
+          "types" : [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ],
+          "long_name" : "Kunjibettu",
+          "short_name" : "Kunjibettu"
+        },
+        {
+          "types" : [
+            "locality",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "long_name" : "Karnataka",
+          "short_name" : "KA"
+        },
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        }
+      ],
+      "access_points" : [
+  
+      ]
+    },
+    {
+      "formatted_address" : "Karnataka 576102, India",
+      "geometry" : {
+        "viewport" : {
+          "southwest" : {
+            "lng" : 74.719299899999996,
+            "lat" : 13.3377862
+          },
+          "northeast" : {
+            "lat" : 13.382778999999999,
+            "lng" : 74.770200000000003
+          }
+        },
+        "location_type" : "APPROXIMATE",
+        "location" : {
+          "lng" : 74.745411199999992,
+          "lat" : 13.3636087
+        },
+        "bounds" : {
+          "southwest" : {
+            "lng" : 74.719299899999996,
+            "lat" : 13.3377862
+          },
+          "northeast" : {
+            "lat" : 13.382778999999999,
+            "lng" : 74.770200000000003
+          }
+        }
+      },
+      "place_id" : "ChIJ4fuN0IS8vDsRnCq0tWqjehk",
+      "types" : [
+        "postal_code"
+      ],
+      "address_components" : [
+        {
+          "types" : [
+            "postal_code"
+          ],
+          "long_name" : "576102",
+          "short_name" : "576102"
+        },
+        {
+          "types" : [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "long_name" : "Karnataka",
+          "short_name" : "KA"
+        },
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        }
+      ],
+      "access_points" : [
+  
+      ]
+    },
+    {
+      "formatted_address" : "Udupi, Karnataka, India",
+      "geometry" : {
+        "bounds" : {
+          "southwest" : {
+            "lat" : 13.295081700000001,
+            "lng" : 74.710722099999998
+          },
+          "northeast" : {
+            "lat" : 13.3685355,
+            "lng" : 74.783460300000002
+          }
+        },
+        "viewport" : {
+          "southwest" : {
+            "lat" : 13.295081700000001,
+            "lng" : 74.710722099999998
+          },
+          "northeast" : {
+            "lng" : 74.783460300000002,
+            "lat" : 13.3685355
+          }
+        },
+        "location" : {
+          "lng" : 74.742142700000002,
+          "lat" : 13.3408807
+        },
+        "location_type" : "APPROXIMATE"
+      },
+      "place_id" : "ChIJz0GPk2m7vDsRQwGFMeSZzMw",
+      "types" : [
+        "locality",
+        "political"
+      ],
+      "address_components" : [
+        {
+          "types" : [
+            "locality",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "long_name" : "Karnataka",
+          "short_name" : "KA"
+        },
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        }
+      ],
+      "access_points" : [
+  
+      ]
+    },
+    {
+      "formatted_address" : "Udupi, Karnataka, India",
+      "geometry" : {
+        "viewport" : {
+          "southwest" : {
+            "lat" : 13.05823,
+            "lng" : 74.581739999999996
+          },
+          "northeast" : {
+            "lat" : 13.981,
+            "lng" : 75.208749999999995
+          }
+        },
+        "location_type" : "APPROXIMATE",
+        "bounds" : {
+          "southwest" : {
+            "lat" : 13.05823,
+            "lng" : 74.581739999999996
+          },
+          "northeast" : {
+            "lng" : 75.208749999999995,
+            "lat" : 13.981
+          }
+        },
+        "location" : {
+          "lng" : 74.874104500000001,
+          "lat" : 13.540119499999999
+        }
+      },
+      "place_id" : "ChIJjZ4yiGm7vDsR3O3HfamQz98",
+      "types" : [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "address_components" : [
+        {
+          "types" : [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "long_name" : "Udupi",
+          "short_name" : "Udupi"
+        },
+        {
+          "types" : [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "long_name" : "Karnataka",
+          "short_name" : "KA"
+        },
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        }
+      ],
+      "access_points" : [
+  
+      ]
+    },
+    {
+      "formatted_address" : "Karnataka, India",
+      "geometry" : {
+        "viewport" : {
+          "southwest" : {
+            "lng" : 74.049606099999991,
+            "lat" : 11.593351999999999
+          },
+          "northeast" : {
+            "lng" : 78.588140199999998,
+            "lat" : 18.441168900000001
+          }
+        },
+        "location_type" : "APPROXIMATE",
+        "bounds" : {
+          "southwest" : {
+            "lng" : 74.049606099999991,
+            "lat" : 11.593351999999999
+          },
+          "northeast" : {
+            "lat" : 18.441168900000001,
+            "lng" : 78.588140199999998
+          }
+        },
+        "location" : {
+          "lng" : 75.713888400000002,
+          "lat" : 15.317277499999999
+        }
+      },
+      "place_id" : "ChIJj0i_N0xaozsR1Xx10YzS8UE",
+      "types" : [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "address_components" : [
+        {
+          "types" : [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "long_name" : "Karnataka",
+          "short_name" : "KA"
+        },
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        }
+      ],
+      "access_points" : [
+  
+      ]
+    },
+    {
+      "formatted_address" : "India",
+      "geometry" : {
+        "bounds" : {
+          "southwest" : {
+            "lat" : 6.4626998999999996,
+            "lng" : 68.109700000000004
+          },
+          "northeast" : {
+            "lat" : 35.513326999999997,
+            "lng" : 97.395358699999989
+          }
+        },
+        "location" : {
+          "lng" : 78.962879999999998,
+          "lat" : 20.593684
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "southwest" : {
+            "lng" : 68.109700000000004,
+            "lat" : 6.4626998999999996
+          },
+          "northeast" : {
+            "lng" : 97.395358699999989,
+            "lat" : 35.513326999999997
+          }
+        }
+      },
+      "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+      "types" : [
+        "country",
+        "political"
+      ],
+      "address_components" : [
+        {
+          "types" : [
+            "country",
+            "political"
+          ],
+          "long_name" : "India",
+          "short_name" : "IN"
+        }
+      ],
+      "access_points" : [
+  
+      ]
+    }
+  ]
+  

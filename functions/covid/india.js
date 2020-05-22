@@ -36,9 +36,12 @@ const get_district_data = async(state, district) => {
         let response = await axios.get(URL)
 
         if(response.data) {
-            console.log(response.data)
-            let district_ = response.data[state].districtData[district]
-            return district_
+            //console.log(response.data)
+            let data = response.data[state].districtData[district]
+            data.state = state
+            data.district = district
+            
+            return data
         } else {
             console.log("ERROR PROCESSING DISTRICT DATA")
         }
@@ -113,6 +116,7 @@ const state_test = async() => {
 const district_test = async() => {
     let data = await get_district_data('Karnataka', 'Bengaluru Urban')
     console.log(data)
+    //return data
 }
 
 const main = async () => {
@@ -123,4 +127,4 @@ const main = async () => {
 //EXPORTS
 exports.get_district_data = get_district_data
 
-main()
+//main()
