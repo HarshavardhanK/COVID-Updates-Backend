@@ -28,3 +28,14 @@ exports.month_number = (month) => {
 
     return months[month]
 }
+
+exports.parse_timestamp = (timestamp) => {
+    let times = timestamp.split(' ')
+    let date = times[0]
+
+    let slices = date.split('/')
+    let day = slices[0]
+    let month = slices[1]
+
+    return {day: parseInt(day), month: parseInt(month)}
+}

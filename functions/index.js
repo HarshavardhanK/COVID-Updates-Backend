@@ -18,3 +18,25 @@ exports.district_data = functions.https.onRequest(async (request, response) => {
 
     response.send(data)
 })
+
+exports.state_data = functions.https.onRequest(async (request, response) => {
+
+    let state = request.query.state
+
+    try {
+
+        let data = await india.get_state_data(state)
+
+        if(data) {
+            response.json({data: data, status: 200})
+
+        } else {
+            response.json({status: 500, message: "Internal error"})
+        }
+
+    } catch(error) {
+        console.log(error)
+        response.json({status: 500, message: "Internal error"})
+    }
+    
+})

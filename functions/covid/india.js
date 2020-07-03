@@ -126,5 +126,6 @@ const main = async () => {
 
 //EXPORTS
 exports.get_district_data = get_district_data
+exports.get_state_data = get_state_data
 
 //main()
